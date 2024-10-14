@@ -1,9 +1,5 @@
 ## healthcare-appointment-scheduling-app
 
-**Frontend**- https://healthcareapp.netlify.app/
-
-**Backend** - https://hospitalappointmentbooking.herokuapp.com/
-
 ## Patient Guide: 
 
 ### Patient Login
